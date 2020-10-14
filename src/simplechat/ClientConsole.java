@@ -1,9 +1,9 @@
-package fr.polytech.simplechat1;
+package simplechat;
 
 
 import java.io.*;
-import fr.polytech.simplechat1.common.*;
-import fr.polytech.simplechat1.client.*;
+import simplechat.client.ChatClient;
+import simplechat.common.ChatIF;
 
 /**
  * This class constructs the UI for a chat client.  It implements the
